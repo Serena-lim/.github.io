@@ -42,15 +42,9 @@ Link: https://ourworldindata.org/grapher/child-mortality
 
 ## 📍 Where’s Schueller?
 
-Below is a live Plotly visualization from my earlier analysis on Schueller’s geolocation data.
+Below is a Plotly visualization from my earlier analysis on Schueller’s location data.
 
-<!-- Replace YOUR_LINK_HERE with your actual Plotly embed link -->
-<iframe
-    src="YOUR_PLOTLY_URL_HERE"
-    width="100%"
-    height="600"
-    frameborder="0">
-</iframe>
+[colab worksheet ](https://colab.research.google.com/drive/1CwJ5_1GwG3HgEjENYIKleFDlca1pEiap?usp=sharing)
 
 ---
 
