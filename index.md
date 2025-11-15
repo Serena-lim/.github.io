@@ -15,6 +15,7 @@ This page contains my data sources, project ideas, and visualizations.
 [GDP](https://fred.stlouisfed.org/series/GDPC1)
 
 **Project Idea 1:** How have Inflation, Unemployment, and GDP evolved in the United States from 2000–2024, and how do major economic crises (2008 and COVID-19) appear in these indicators?
+
 **Project Idea 2:** What is the relationship between inflation (CPI) and unemployment in the United States
 
 ### 2. Walla Walla Climate Data  
