@@ -67,3 +67,9 @@ This report uses the dataset “Provisional COVID-19 Deaths by Sex and Age” pu
 - Covid-19 mortality was substantially higher for males than females in 2020-2022; by 2023, deaths declined steeply for both sexes.
 - Mortality risk rose sharply with age, especially among those 65 years and older.
 
+![Figure 1: Covid-19 Deaths by Sex, by Year](BySexAndYear.png)
+![Figure 2: Covid-19 Deaths by Age Group and Sex](ByAgeAndSex.png)
+
+### Full Worksheet
+[Link to my Colab worksheet](https://colab.research.google.com/drive/1wU32VuFBrQGmex-ZBvoslS94sObqdvFO?usp=sharing)
+
