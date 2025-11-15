@@ -21,25 +21,30 @@ This page contains my data sources, project ideas, and visualizations.
 [Link](https://www.weather.gov/wrh/timeseries?site=KALW)
 
 **Project Idea 1:** Are there consistent daily patterns in temperature changes within the three-day period?
+
 **Project Idea 2:** How did changes in temperature relate to changes in humidity or wind speed over the three days?
 
 ### 3. Population Growth Rate  
 [Link](https://ourworldindata.org/grapher/population-growth-rates )
 
 **Project Idea 1:** How has the population growth rate changed over time in the United States? What key factors help explain these trends?
+
 **Project Idea 2:** Comparing population growth between two countries
 
 ### 4. Average Years of Schooling  
 [Link](https://ourworldindata.org/grapher/mean-years-of-schooling-long-run)
 
 **Project Idea 1:** Is higher average years of schooling associated with lower fertility rates across countries?
+
 **Project Idea 2:** Is there a relationship between average years of schooling and economic development (GDP per capita)?
+
 **Project Idea 3:** How does gender inequality in education (male vs female years of schooling) vary across regions, and how has it changed over time?
 
 ### 5. Child Mortality Rate 
 [Link](https://ourworldindata.org/grapher/child-mortality)
 
 **Project Idea 1:** How have child mortality rates changed over time in different countries?
+
 **Project Idea 2:** What is the relationship between child mortality and economic development (e.g., GDP per capita)?
 
 ---
