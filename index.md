@@ -1,4 +1,4 @@
-# Serena Lim’s Data Analysis Portfolio
+# Serena’s Data Analysis Portfolio
 
 Welcome to my GitHub Pages site!  
 This page contains my data sources, project ideas, and visualizations.
