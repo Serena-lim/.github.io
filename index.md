@@ -7,32 +7,32 @@ This page contains my data sources, project ideas, and visualizations.
 
 ## 📊 Data Sources and Project Ideas
 
-### 1. Inflation, Unempoymemt Rate, GDP 
+### 1. Federal Reserve Economic Data
+Link: https://fred.stlouisfed.org/
 CPI: https://data.cdc.gov  
 Inflation,  consumer prices: https://fred.stlouisfed.org/series/FPCPITOTLZGUSA
 Unemployment Rate: https://fred.stlouisfed.org/series/UNRATE
 GDP: https://fred.stlouisfed.org/series/GDPC1
 
-Description: Datasets on CPI, Unemployment Rate, and GDP in the United States.  
-**Project Idea 1:** How have Inflation, Unemployment, and GDP evolved in the United States 
-from 2000–2024, and how do major economic crises (2008 and COVID-19) appear in these indicators?
-
+**Project Idea 1:** How have Inflation, Unemployment, and GDP evolved in the United States from 2000–2024, and how do major economic crises (2008 and COVID-19) appear in these indicators?
 **Project Idea 2:** What is the relationship between inflation (CPI) and unemployment in the United States
 
 ### 2. NOAA Climate Data  
 Link: https://www.ncdc.noaa.gov/  
-Description: Weather, temperature, and storm history.  
-**Project Idea:** Explore climate pattern changes over time.
+**Project Idea 1:** How have Seattle's average temperatures changed over the past 50–100 years?
+**Project Idea 2:** How has annual precipitation changed over time?
+**Project Idea 3:** Are extreme heat days (“over 95°F”) occurring more often?
 
-### 3. World Bank Open Data  
-Link: https://data.worldbank.org/  
-Description: Global development and economic indicators.  
-**Project Idea:** Compare GDP growth across regions.
+### 3. Population Growth Rate  
+Link: https://ourworldindata.org/grapher/population-growth-rates 
+**Project Idea 1:** How has the population growth rate changed over time in the United States? What key factors help explain these trends?
+**Project Idea 2:** Comparing population growth between two countries
 
-### 4. NYC Open Data  
-Link: https://opendata.cityofnewyork.us/  
-Description: Transportation, crime, housing.  
-**Project Idea:** Model NYC taxi demand using time-series.
+### 4. Average Years of Schooling  
+Link: https://ourworldindata.org/grapher/mean-years-of-schooling-long-run
+**Project Idea 1:** Is higher average years of schooling associated with lower fertility rates across countries?
+**Project Idea 2:** Is there a relationship between average years of schooling and economic development (GDP per capita)?
+**Project Idea 3:** How does gender inequality in education (male vs female years of schooling) vary across regions, and how has it changed over time?
 
 ### 5. FAA Wildlife Strike Database  
 Link: https://wildlife.faa.gov/home  
