@@ -45,6 +45,8 @@ Link: https://ourworldindata.org/grapher/child-mortality
 Below is a Plotly visualization from my earlier analysis on Schueller’s location data.
 
 [colab worksheet ](https://colab.research.google.com/drive/1CwJ5_1GwG3HgEjENYIKleFDlca1pEiap?usp=sharing)
+
+
 [bar plot](barplot.png)
 
 ---
