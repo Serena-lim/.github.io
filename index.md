@@ -55,7 +55,15 @@ Below is a Plotly visualization from my earlier analysis on Schueller’s locati
 
 ---
 
-## ⭐ Above and Beyond
+## Above and Beyond
 
-As an additional enhancement, I added a custom theme and structured sections to make the site more navigable.
+As an Above and Beyond, I included another project I did this semester on Covid-19 Deaths in the United States.
+
+### Overview
+This report uses the dataset “Provisional COVID-19 Deaths by Sex and Age” published on October 16, 2025. It aggregates provisional counts of Covid-19 deaths in the United States by sex, age group, year (from 2020-2023), and location (states). 
+
+### Visualization 
+**Findings:** 
+Covid-19 mortality was substantially higher for males than females in 2020-2022; by 2023, deaths declined steeply for both sexes.
+Mortality risk rose sharply with age, especially among those 65 years and older.
 
