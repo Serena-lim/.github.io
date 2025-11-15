@@ -17,11 +17,10 @@ GDP: https://fred.stlouisfed.org/series/GDPC1
 **Project Idea 1:** How have Inflation, Unemployment, and GDP evolved in the United States from 2000–2024, and how do major economic crises (2008 and COVID-19) appear in these indicators?
 **Project Idea 2:** What is the relationship between inflation (CPI) and unemployment in the United States
 
-### 2. NOAA Climate Data  
-Link: https://www.ncdc.noaa.gov/  
-**Project Idea 1:** How have Seattle's average temperatures changed over the past 50–100 years?
-**Project Idea 2:** How has annual precipitation changed over time?
-**Project Idea 3:** Are extreme heat days (“over 95°F”) occurring more often?
+### 2. Walla Walla Climate Data  
+Link: https://www.weather.gov/wrh/timeseries?site=KALW
+**Project Idea 1:** Are there consistent daily patterns in temperature changes within the three-day period?
+**Project Idea 2:** How did changes in temperature relate to changes in humidity or wind speed over the three days?
 
 ### 3. Population Growth Rate  
 Link: https://ourworldindata.org/grapher/population-growth-rates 
@@ -34,10 +33,10 @@ Link: https://ourworldindata.org/grapher/mean-years-of-schooling-long-run
 **Project Idea 2:** Is there a relationship between average years of schooling and economic development (GDP per capita)?
 **Project Idea 3:** How does gender inequality in education (male vs female years of schooling) vary across regions, and how has it changed over time?
 
-### 5. FAA Wildlife Strike Database  
-Link: https://wildlife.faa.gov/home  
-Description: Bird strike records for aircraft.  
-**Project Idea:** Predict high-risk months for wildlife strikes.
+### 5. Child Mortality Rate 
+Link: https://ourworldindata.org/grapher/child-mortality
+**Project Idea 1:** How have child mortality rates changed over time in different countries?
+**Project Idea 2:** What is the relationship between child mortality and economic development (e.g., GDP per capita)?
 
 ---
 
