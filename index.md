@@ -57,7 +57,7 @@ Below is a Plotly visualization from my earlier analysis on Schueller’s locati
 [colab worksheet ](https://colab.research.google.com/drive/1CwJ5_1GwG3HgEjENYIKleFDlca1pEiap?usp=sharing)
 
 
-<iframe src="location.htm" width="100%" height="600" style="border:none;">
+<iframe src="location.html" width="100%" height="600" style="border:none;">
 <p›Your browser does not support iframes.</p> 
 </iframe>
 
