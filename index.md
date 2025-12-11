@@ -6,6 +6,7 @@ This page contains my data sources, project ideas, and visualizations.
 ---
 ## Child Mortality Rate Analysis
 Child mortality rate is defined as the probability of a child dying before reaching age five. It remains a key indicator of a country’s public health conditions and broader socio-economic development. In this project, we analyze historical trends in child mortality and explore whether economic development, measured by GDP per capita, is associated with lower child mortality across countries. Moreover, we analyze the causes of child mortality and the relationship between child mortality and poverty in different countries.
+
 [View Project](https://serena-lim.github.io/project-portfolio/)
 
 ## 📊 Data Sources and Project Ideas
